@@ -13,8 +13,17 @@ fun circleArea (r : Int ): Double {
     return area
 }
 
+"""
+   Rewrite the circleArea function from the previous exercise as a single-expression function.
+    
+""".trimIndent()
+
+//as a single expression
+fun circleAreaX (r:Int): Double = PI * r * r
+
 fun main () {
     println(circleArea(5))
+    println(circleAreaX(70))
 }
 
 main()
