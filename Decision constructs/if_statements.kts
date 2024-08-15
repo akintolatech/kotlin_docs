@@ -1,6 +1,3 @@
-"""
-    
-""".trimIndent()
 
 """
    Conditional statements statements
