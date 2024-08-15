@@ -1,4 +1,12 @@
+"""
+   Conditional statements statements
+   Notes
+    When statements are a more concise and kotlin way to write conditionals
+   All rights reserved Akintola Technologies Aug 24    
+""".trimIndent()
+
 fun main(){
+
     val salary = 3000
 
     when (salary){
