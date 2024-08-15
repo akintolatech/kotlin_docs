@@ -4,14 +4,19 @@
 """.trimIndent()
 
 fun trick () {
-    println("Tricked")
+    println("Tricked with function reference")
 }
 
 fun main () {
     //refer to the function using the fuction reference operator ::
     var fun_var = ::trick
 
-    var funvar2 = { println("tricked") }
+    //using labda expressions
+    var funvar2 = { println("Tricked with lambda") }
+
+    //call the functions
+    fun_var()
+    funvar2()
 }
 
 main()
