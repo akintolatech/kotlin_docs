@@ -1,6 +1,13 @@
 """
+    
+""".trimIndent()
+
+"""
+   Conditional statements statements
+   Notes
     if else, if else if statements in Kotlin
     if statementes are used for decision making
+   All rights reserved Akintola Technologies Aug 24    
 """.trimIndent()
 
 fun main(){
