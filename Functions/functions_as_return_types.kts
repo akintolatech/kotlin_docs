@@ -7,6 +7,7 @@
    All rights reserved Akintola Technologies Aug 24    
 """.trimIndent()
 
+//Assigning lambda functions to a variable
 val trick = {
     println("Tricked")
 }
