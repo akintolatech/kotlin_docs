@@ -1,4 +1,13 @@
+"""
+    Strings
+""".trimIndent()
 
+//Explicit
+val name: String
+val sex: Char = "M"
+val marital = "Single"
+
+name = "Ivan"
 
 //  string templates and escape sequences
 println("Database app")
