@@ -15,6 +15,7 @@ val treat = {
     println("Treat")
 }
 
+//Returning a function from another function
 fun trickOrTreat( action: Boolean ): () -> Unit {
     if (action) {
         return treat
