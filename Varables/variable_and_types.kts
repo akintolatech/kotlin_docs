@@ -20,9 +20,6 @@ fun main(){
     //  implicit/concise declaration and assignment
     var marital = true
 
-    //  string templates and escape sequences
-    println("Database app")
-    println("Name: $name\nSex: $sex\nSalary: $sal\nMarital Status: $marital\n")
 
     //  augmented arithmetic assigments
     age+=30
