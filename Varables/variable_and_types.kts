@@ -1,5 +1,6 @@
 """
     Variables and basic types in kotlin
+    All rights reserved Akintola Technologies Aug 24
     
 """.trimIndent()
 
