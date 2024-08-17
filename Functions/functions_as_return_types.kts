@@ -24,6 +24,7 @@ fun trickOrTreat( action: Boolean ): () -> Unit {
     }
 }
 
+//Assign a function directly to a variable
 fun main () {
     val trick_var = trickOrTreat(false)
     val treat_var = trickOrTreat(action = true)
