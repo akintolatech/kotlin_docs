@@ -8,6 +8,7 @@ fun main(){
     //  variable declaration without initialisation
     val name: String    //immutable
     var sex: Char     //mutable
+
     //initialisation and assignment
     name = "joe"
     sex = 'M'
